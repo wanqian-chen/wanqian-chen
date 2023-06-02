@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Hi, I am Wanqian 👋
 
 - 🔭 I’m currently a graduate student in computer science
-- 🌱 I’m currently learning 
+<!-- - 🌱 I’m currently learning  -->
 - 💪🏼 Learning is a lifelong journey that never ends.
 
 <div align="center">
