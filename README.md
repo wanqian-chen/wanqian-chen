@@ -1,9 +1,3 @@
-<style>
- body {
-  background-color: black;
-}
-</style>
-
 <!-- ### Hi there 👋 -->
 
 <!--
