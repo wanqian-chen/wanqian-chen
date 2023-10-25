@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💪🏼 Learning is a lifelong journey that never ends.
 
 <div align="center">
-   <img src="https://stats-wanqian-chen.vercel.app/api?username=wanqian-chen&show_icons=true&theme=radical&count_private=true" alt="Wanqian's GitHub stats">
+   <img src="https://stats-1024-wanqian-chen.vercel.app/api?username=wanqian-chen&show_icons=true&theme=radical&count_private=true" alt="Wanqian's GitHub stats">
 </div>
 
 #### Languages and Tools
